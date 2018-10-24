@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trabalho_DCC196</string>
+
+    <string name="novo_evento">Novo Evento</string>
+    <string name="novo_participante">Novo Participante</string>
+    <string name="semana_da_computacao">Semana da Computação</string>
+    <string name="eventos">Eventos</string>
+    <string name="participantes">Participantes</string>
+
+
+
+</resources>
