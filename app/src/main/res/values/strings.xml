@@ -47,6 +47,16 @@
     <string name="dados_cpf_participante">xxx.xxx.xxx-xx</string>
 
 
+    // dados do evento
+    <string name="inscritos_evento">Inscritos:</string>
+
+    <string name="editar_evento">EDITAR</string>
+    <string name="voltar">X</string>
+    // obs.:utilizadas strings já criadas em cadastro de evento
+
+
+    // Lista de eventos
+    <string name="lista_evento">Eventos Disponíveis</string>
 
 
 </resources>

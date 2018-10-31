@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".CadastroEvento" />
         <activity android:name=".CadastroParticipante" />
-        <activity android:name=".DadosParticipante"></activity>
+        <activity android:name=".DadosParticipante" />
+        <activity android:name=".DadosEvento" />
+        <activity android:name=".ListaEventos"></activity>
     </application>
 
 </manifest>

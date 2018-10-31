@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     List lstEventos;
     List lstParticipantes;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

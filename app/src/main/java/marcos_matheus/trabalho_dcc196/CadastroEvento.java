@@ -9,7 +9,6 @@ import android.widget.EditText;
 
 public class CadastroEvento extends AppCompatActivity {
 
-
     Button btCadastrarEvento;
     Button btCancelar;
 
@@ -18,7 +17,6 @@ public class CadastroEvento extends AppCompatActivity {
     EditText edtHorarioEvento;
     EditText edtFacilitadorEvento;
     EditText edtDescricaoEvento;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,7 +40,5 @@ public class CadastroEvento extends AppCompatActivity {
         edtHorarioEvento = (EditText) findViewById(R.id.edtHorarioEvento);
         edtFacilitadorEvento = (EditText) findViewById(R.id.edtFacilitadorEvento);
         edtDescricaoEvento = (EditText) findViewById(R.id.edtDescricaoEvento);
-
-
     }
 }
